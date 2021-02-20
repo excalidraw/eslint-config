@@ -1,0 +1,17 @@
+{
+  "description": "Excalidraw's ESLint config",
+  "license": "MIT",
+  "main": "eslintrc.json",
+  "name": "@excalidraw/eslint-config",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=4",
+    "@typescript-eslint/parser": ">=4",
+    "eslint": ">=7",
+    "eslint-config-prettier": ">=7",
+    "eslint-plugin-prettier": ">=3",
+    "eslint-config-react-app": ">=6",
+    "prettier": ">=2"
+  },
+  "repository": "https://github.com/excalidraw/eslint-config",
+  "version": "1.0.0"
+}
