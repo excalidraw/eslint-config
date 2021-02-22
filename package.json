@@ -12,6 +12,9 @@
     "eslint-config-react-app": ">=6",
     "prettier": ">=2"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": "https://github.com/excalidraw/eslint-config",
   "version": "0.0.1-beta"
 }
