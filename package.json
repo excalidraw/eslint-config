@@ -4,8 +4,6 @@
   "main": "eslintrc.json",
   "name": "@excalidraw/eslint-config",
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": ">=4",
-    "@typescript-eslint/parser": ">=4",
     "eslint": ">=7",
     "eslint-config-prettier": ">=7",
     "eslint-plugin-prettier": ">=3",
@@ -16,5 +14,5 @@
     "access": "public"
   },
   "repository": "https://github.com/excalidraw/eslint-config",
-  "version": "0.0.1-beta"
+  "version": "0.0.2-beta"
 }
