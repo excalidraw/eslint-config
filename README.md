@@ -17,6 +17,7 @@ yarn add --dev @excalidraw/eslint-config \
                eslint-plugin-jsx-a11y \
                eslint-plugin-prettier \
                eslint-plugin-react \
+               eslint-plugin-react-app \
                eslint-plugin-react-hooks \
                prettier
 ```
