@@ -8,8 +8,6 @@ Excalidraw's [ESLint](https://eslint.org/docs/developer-guide/shareable-configs)
 
 ```bash
 yarn add --dev @excalidraw/eslint-config \
-               @typescript-eslint/eslint-plugin \
-               @typescript-eslint/parser \
                eslint-config-prettier \
                eslint-plugin-prettier \
                prettier
