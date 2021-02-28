@@ -4,7 +4,7 @@
   "main": "eslintrc.json",
   "name": "@excalidraw/eslint-config",
   "peerDependencies": {
-    "babel-eslint": ">=10",
+    "@babel/eslint-parser": ">=7",
     "eslint-config-prettier": ">=7",
     "eslint-plugin-flowtype": ">=5",
     "eslint-plugin-import": ">=2",

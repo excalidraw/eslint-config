@@ -10,7 +10,7 @@ Excalidraw's [ESLint](https://eslint.org/docs/developer-guide/shareable-configs)
 yarn add --dev @excalidraw/eslint-config \
                @typescript-eslint/eslint-plugin \
                @typescript-eslint/parser \
-               babel-eslint \
+               @babel/eslint-parser \
                eslint-config-prettier \
                eslint-plugin-flowtype \
                eslint-plugin-import \
