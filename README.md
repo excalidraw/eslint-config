@@ -11,7 +11,7 @@ yarn add --dev @excalidraw/eslint-config \
                @typescript-eslint/eslint-plugin \
                @typescript-eslint/parser \
                eslint-config-prettier \
-               eslint-plugin-prettier
+               eslint-plugin-prettier \
                prettier
 ```
 
