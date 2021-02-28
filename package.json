@@ -4,13 +4,20 @@
   "main": "eslintrc.json",
   "name": "@excalidraw/eslint-config",
   "peerDependencies": {
+    "babel-eslint": ">=10",
     "eslint-config-prettier": ">=7",
+    "eslint-plugin-flowtype": ">=5",
+    "eslint-plugin-import": ">=2",
+    "eslint-plugin-jsx-a11y": ">=6",
     "eslint-plugin-prettier": ">=3",
+    "eslint-plugin-react-app": ">=6",
+    "eslint-plugin-react-hooks": ">=4",
+    "eslint-plugin-react": ">=7",
     "prettier": ">=2"
   },
   "publishConfig": {
     "access": "public"
   },
   "repository": "https://github.com/excalidraw/eslint-config",
-  "version": "0.0.5-beta"
+  "version": "0.0.6-beta"
 }
