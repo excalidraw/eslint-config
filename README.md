@@ -10,15 +10,8 @@ Excalidraw's [ESLint](https://eslint.org/docs/developer-guide/shareable-configs)
 yarn add --dev @excalidraw/eslint-config \
                @typescript-eslint/eslint-plugin \
                @typescript-eslint/parser \
-               @babel/eslint-parser \
                eslint-config-prettier \
-               eslint-plugin-flowtype \
-               eslint-plugin-import \
-               eslint-plugin-jsx-a11y \
                eslint-plugin-prettier \
-               eslint-plugin-react \
-               eslint-plugin-react-app \
-               eslint-plugin-react-hooks \
                prettier
 ```
 
