@@ -12,6 +12,16 @@ yarn add --dev @excalidraw/eslint-config \
                eslint-plugin-prettier \
                prettier
 ```
+
+### Install (Windows)
+
+```bash
+yarn add --dev @excalidraw/eslint-config ^
+               eslint-config-prettier ^
+               eslint-plugin-prettier ^
+               prettier
+```
+
 ## Usage for non-CRA
 
 ### Install (macOS, Linux)
@@ -25,6 +35,16 @@ yarn add --dev @excalidraw/eslint-config \
                prettier
 ```
 
+### Install (Windows)
+
+```bash
+yarn add --dev @excalidraw/eslint-config ^
+               @typescript-eslint/parser ^
+               @typescript-eslint/eslint-plugin ^
+               eslint-config-prettier ^
+               eslint-plugin-prettier ^
+               prettier
+```
 
 ### Edit `.eslintrc.json`
 
