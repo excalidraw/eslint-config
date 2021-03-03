@@ -32,6 +32,7 @@ yarn add --dev @excalidraw/eslint-config \
                @typescript-eslint/eslint-plugin \
                eslint-config-prettier \
                eslint-plugin-prettier \
+               eslint \
                prettier
 ```
 
@@ -43,6 +44,7 @@ yarn add --dev @excalidraw/eslint-config ^
                @typescript-eslint/eslint-plugin ^
                eslint-config-prettier ^
                eslint-plugin-prettier ^
+               eslint ^
                prettier
 ```
 
